@@ -1,0 +1,1 @@
+{"name":"Mona","age":12,"address":{"street":"Prashant Vihar","houseNumber":87},"salary":12000.0}
